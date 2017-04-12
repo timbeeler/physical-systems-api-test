@@ -1,6 +1,6 @@
 # Product Systems & Ops Coding testing for engineers 
 
-This repostiroy provides a code test for Product Systems & Ops Engineers.
+This repository provides a code test for Product Systems & Ops Engineers.
 
 You have to implement a user story defined in this [document](./docs/stories.md).
 
