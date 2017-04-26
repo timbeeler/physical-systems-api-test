@@ -2,10 +2,9 @@
 
 Build a javascript application that handles property locations.
 
+## 1. Mapping
 
-## 1. Mapping
-
-### 1.1 
+### 1.1 
 As a member of a Real Estate team I need to see all properties on a map so that I can understand a market and find the best places for new properties.
 
 #### Done Criteria:
@@ -24,7 +23,7 @@ As a member of a Real Estate team I want to understand basic information about a
     - If lightbox is open, map interaction should be disabled.
 
 
-## 2. Entity Management (CRUD - Grid & forms)
+## 2. Entity Management (CRUD - Grid & forms)
 
 ### 2.1 
 As a member of a real Estate team I need to manage information about properties so that all members of my team can leverage property information in the system.
